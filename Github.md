@@ -33,5 +33,5 @@ http://web.gxzj.com.cn/News.aspx?id=325505
 * What is GitHub for a beginner and how to get started with it?<br>
 https://www.quora.com/What-is-GitHub-for-a-beginner-and-how-to-get-started-with-it
 
-* 使用Android studio下载github上的工程及问题解决
+* 使用Android studio下载github上的工程及问题解决<br>
 http://blog.chinaunix.net/uid-20771867-id-5066613.html
