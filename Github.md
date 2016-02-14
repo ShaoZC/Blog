@@ -30,6 +30,8 @@ https://github.com/guodongxiaren/README/blob/master/README.md
 * 如何将AndroidStudio项目提交（更新）到github<br>
 http://web.gxzj.com.cn/News.aspx?id=325505
 
+*Android Studio导入github下载的工程<br>
+http://www.cnblogs.com/liuling/p/2015-9-16-01.html
 * What is GitHub for a beginner and how to get started with it?<br>
 https://www.quora.com/What-is-GitHub-for-a-beginner-and-how-to-get-started-with-it
 
