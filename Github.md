@@ -23,9 +23,14 @@ https://www.zhihu.com/question/20431718
 * GitHub 的 Fork 是什么意思？
 https://www.zhihu.com/question/20431718
 
+
 * GitHub上README.md教程 
 http://blog.csdn.net/kaitiren/article/details/38513715<br>
-https://github.com/guodongxiaren/README/blob/master/README.md
+https://github.com/guodongxiaren/README/blob/master/README.md<br>
+
+* 原来Github上的README.md文件这么有意思——Markdown语言详解
+http://www.kuqin.com/shuoit/20141125/343459.html<br>
+http://blog.csdn.net/kaitiren/article/details/38513715<br>
 
 * 如何将AndroidStudio项目提交（更新）到github<br>
 http://web.gxzj.com.cn/News.aspx?id=325505
