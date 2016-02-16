@@ -1,6 +1,7 @@
 #Github
 在学习编程的路上，github是绕不开的。可是我并不会git，也感觉比较复杂，按照以往的一些做法，我先用起来，边做边学。不过由于没有任何经验和学习基础，所以现在很多基础的东西还不明白。当然获取这些知识的来源还是最懒的，直接百度。知乎是我学习这些知识的一个主要来源。
 
+
 160214没想到我现在竟然用github写起“博客”来了，十分开心
 
 160214现在还不怎么会用github下载别人的源代码来用
@@ -32,6 +33,10 @@ https://github.com/guodongxiaren/README/blob/master/README.md<br>
 http://www.kuqin.com/shuoit/20141125/343459.html<br>
 http://blog.csdn.net/kaitiren/article/details/38513715<br>
 
+* Github用Markdown语言可以改变字体颜色，你看<br>
+
+<font color=red>为什么markdown不支持字号和字体颜色？</font>
+<br>https://www.zhihu.com/question/22504694/answer/21601557
 * 如何将AndroidStudio项目提交（更新）到github<br>
 http://web.gxzj.com.cn/News.aspx?id=325505
 
